@@ -41,7 +41,7 @@
 
 - node.js와 브라우저를 위한 http통신 javascript 라이브러리
 - JSON 데이터 자동 변환
-- promise 기반
+- Promise 기반
 - 브라우저 호환성 뛰어나다.
 - 에러핸들링이 쉽다고 한다.
 - 많이 사용한다고 한다.
